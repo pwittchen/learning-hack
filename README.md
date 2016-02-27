@@ -44,6 +44,8 @@ Type `Ctrl+C` in terminal to stop server. Optionally, type `make clean` to remov
 Sample program
 --------------
 
+File: `hello.php`
+
 ```hack
 <?hh
 echo "Hello Hack!";
