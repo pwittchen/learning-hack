@@ -19,7 +19,7 @@ Hint: *this operation needs to be run only once*
 make install
 ```
 
-**Run typechecker**
+**Run [typechecker](https://docs.hhvm.com/hack/typechecker/introduction)**
 
 Hint: *this operation needs to be run only once*
 
