@@ -2,6 +2,12 @@ learning-hack
 =============
 learning basics of Hack programming language by Facebook
 
+Contents
+--------
+- [Setup on Linux](#setup-on-linux)
+- [Sample program](#sample-program)
+- [References](#references)
+
 Setup on Linux
 --------------
 
