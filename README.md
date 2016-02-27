@@ -62,4 +62,5 @@ echo "Hello Hack!";
 
 References
 ----------
-http://hacklang.org/ - official website of the Hack language
+- [Hack](http://hacklang.org/)
+- [HHVM](http://hhvm.com/)
