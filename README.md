@@ -13,9 +13,9 @@ Hint: *this operation needs to be run only once*
 make install
 ```
 
-Hint: *this operation needs to be run only once*
-
 **Run typechecker**
+
+Hint: *this operation needs to be run only once*
 
 ```
 make typechecker
