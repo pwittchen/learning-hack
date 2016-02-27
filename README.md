@@ -37,6 +37,12 @@ make server
 
 Open your favorite broweser and go to: `http://localhost:8080/hello.php`
 
+You can also open another terminal window and use curl:
+
+```
+curl http://localhost:8080/hello.php
+```
+
 You should see `Hello Hack!` message
 
 Type `Ctrl+C` in terminal to stop server. Optionally, type `make clean` to remove temporary files.
