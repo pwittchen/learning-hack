@@ -13,6 +13,8 @@ Setup on Linux
 
 **Install required software**
 
+You can perform [manual installation](https://docs.hhvm.com/hhvm/installation/linux) or use Makefile from this repository.
+
 Hint: *this operation needs to be run only once*
 
 ```
