@@ -63,4 +63,7 @@ echo "Hello Hack!";
 References
 ----------
 - [Hack](http://hacklang.org/)
+- [Getting started with Hack](https://docs.hhvm.com/hack/getting-started/getting-started)
 - [HHVM](http://hhvm.com/)
+- [Getting started with HHVM](https://docs.hhvm.com/hhvm/getting-started/getting-started)
+- [Source code of HHVM](https://github.com/facebook/hhvm)
